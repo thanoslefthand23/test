@@ -1,4 +1,9 @@
 package studentlist;
+/* 
+   @author tailorha
+   @author harsh tailor 30th may 2023
+
+*/
 public class Student {
     
     private String sname;
