@@ -1,7 +1,7 @@
 package studentlist;
 /* 
    @author tailorha
-   @author harsh tailor 30th may 2023
+   @author harsh tailor 29th may 2023
    testing
 */
 public class Student {
